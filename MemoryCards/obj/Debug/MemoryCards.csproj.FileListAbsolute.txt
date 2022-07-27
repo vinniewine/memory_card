@@ -1,0 +1,11 @@
+C:\Users\workd\Documents\project\memory_card\MemoryCards\bin\Debug\MemoryCards.exe.config
+C:\Users\workd\Documents\project\memory_card\MemoryCards\bin\Debug\MemoryCards.exe
+C:\Users\workd\Documents\project\memory_card\MemoryCards\bin\Debug\MemoryCards.pdb
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.csproj.AssemblyReference.cache
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.csproj.SuggestedBindingRedirects.cache
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.FormMemory.resources
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.Properties.Resources.resources
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.csproj.GenerateResource.cache
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.csproj.CoreCompileInputs.cache
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.exe
+C:\Users\workd\Documents\project\memory_card\MemoryCards\obj\Debug\MemoryCards.pdb
